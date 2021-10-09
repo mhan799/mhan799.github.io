@@ -5,15 +5,17 @@ The Maltese is a breed of dog in the toy group. It is thought to have originated
 
 
 ## History
-Little is known about the origin and spread of the Maltese dog. It probably originated from spitz-type dogs in south-central Europe, where it may at first have resembled the modern Pomeranian. The Maltese was recognized as a breed by the AKC in 1888.
+Little is known about the origin and spread of the Maltese dog. It probably originated from spitz-type dogs in south-central Europe, where it may at first have resembled the modern Pomeranian. The Maltese was recognized as a breed by the *[AKC](https://www.akc.org/)* in 1888.
 
 
 ## Appearance
 
 ### Height
-An adult male maltese dog can be 8-10 inches, and an adullt femal maltese can be 8-9 inches tall.
+- An adult male maltese dog can be **8-10 inches** tall.
+- An adullt femal maltese can be **8-9 inches** tall.
 ### Weight
-Usually an adult male maltese dog can grow to be 3-8lbs, and an adullt femal maltese can grow up to 3-7lbs..
+- Usually an adult male maltese dog can grow to be **3-8 lbs**.
+- An adullt femal maltese can grow up to **3-7 lbs**.
 ### Coat
 A maltese is usually pure white, covered by a long, straight, silky coat. 
 
